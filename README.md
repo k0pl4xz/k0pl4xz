@@ -12,7 +12,7 @@
 <br>
 
 ### 🌱 Keahlian & Teknologi yang Dipelajari
-Berikut adalah beberapa teknologi yang sedang atau pernah saya pelajari.
+Berikut adalah beberapa teknologi yang sedang saya pelajari.
 
 <p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
